@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I work for [Mayden](https://mayden.co.uk) in the systems team, we look after all the systems that Mayden run. Both internal and Data Centre.
+
+- ⚡ Fun fact: cron wont run unless its a. installed and b. running
+
 <!--
 **matt-horwood-mayden/matt-horwood-mayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
