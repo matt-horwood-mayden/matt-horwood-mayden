@@ -4,7 +4,6 @@ I work for [Mayden](https://mayden.co.uk) in the systems team, we look after all
 
 - ⚡ Fun fact: cron wont run unless its a. installed and b. running
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matt-horwood-mayden)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matt-horwood-mayden/matt-horwood-mayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
